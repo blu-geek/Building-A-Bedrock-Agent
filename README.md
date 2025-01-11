@@ -1,5 +1,4 @@
 
-# Project 1
 # Building a Bedrock Agent with Action Groups, Knowledge Bases, and Guardrails via RAG
 
 This project is a walk through to create a Bedrock agent that uses action groups with Lambda functions, integrates a knowledge base for domain-specific responses, and applies guardrails for safe interactions. This hands-on experience provides practical knowledge of building AI-driven agents on Amazon Bedrock's platform. By the end, you'll understand how to combine real-time data retrieval, secure response mechanisms, and AI functionality, preparing you to deploy intelligent agents that ensure accuracy and safety in a variety of real-world applications.
