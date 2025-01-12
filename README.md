@@ -3,6 +3,11 @@
 
 This project is a walk through to create a Bedrock agent that uses action groups with Lambda functions, integrates a knowledge base for domain-specific responses, and applies guardrails for safe interactions. This hands-on experience provides practical knowledge of building AI-driven agents on Amazon Bedrock's platform. By the end, you'll understand how to combine real-time data retrieval, secure response mechanisms, and AI functionality, preparing you to deploy intelligent agents that ensure accuracy and safety in a variety of real-world applications.
 
+# Architecture for Task Automation by Bedrock Agents
+
+![automating-tasks-using-agents-for-amazon-bedrock 2a4bcbb81cb0fd7417ca75576e2b000970b6e2d4](https://github.com/user-attachments/assets/b11c60f6-f8e6-4076-ae4c-2cf5d69f5cfb)
+
+
 <img width="862" alt="Bedrock-Agent" src="https://github.com/user-attachments/assets/b12c5a51-fbfc-4cc7-8225-c4723a5cc927" />
 
 # Activity Guide: Building a Bedrock Agent with AWS Tools
